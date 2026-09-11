@@ -1,6 +1,6 @@
-# Open Menu FMI-OFF Platinum
+# Open Menu Find My research Platinum
 
-**Open Menu FMI-OFF Platinum** — настольная утилита для Windows, которая проводит iPhone/iPad через сценарий **Open Menu** и помогает снять **Find My / Activation Lock (FMI OFF)** на поддерживаемых устройствах.
+**Open Menu Find My research Platinum** — настольная утилита для Windows, которая проводит iPhone/iPad через сценарий **Open Menu** и помогает снять **Find My / Activation Lock (Find My research)** на поддерживаемых устройствах.
 
 Поддерживаются **все регионы iCloud**: global (**icloud.com**) и China (**icloud.com.cn**, GCBD). Программа и сервер автоматически выбирают нужный домен по региону устройства.
 
@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **Последняя версия** | [**v1.0.0.25 — Releases**](https://github.com/SmartMaster35Rus/FMI-OFF-Open-Menu-Platinum/releases/latest) |
+| **Последняя версия** | [**v1.0.0.25 — Releases**](https://github.com/SmartMaster35Rus/Find My research-Open-Menu-Platinum/releases/latest) |
 | **Установщик** | `OpenMenu_FMIOFF_Platinum_Setup.exe` (~278 MB) |
 | **Платформа** | Windows 10/11 x64 |
 
@@ -20,7 +20,7 @@
 
 | Функция | Описание |
 |--------|----------|
-| **FMI:OFF** | Open Menu: локальный прокси → Token Hunter → отправка токена на сервер |
+| **Find My research** | Open Menu: локальный прокси → Token Hunter → отправка токена на сервер |
 | **USB** | Серийник, IMEI, модель, регион, версия iOS |
 | **Token Hunter** | Перехват iCloud-сессии через Safari + Web Inspector |
 | **Global iCloud** | icloud.com + setup.icloud.com |
@@ -52,17 +52,17 @@
 
 ## Установка
 
-1. Скачайте **`OpenMenu_FMIOFF_Platinum_Setup.exe`** из [Releases](https://github.com/SmartMaster35Rus/FMI-OFF-Open-Menu-Platinum/releases/latest)
+1. Скачайте **`OpenMenu_FMIOFF_Platinum_Setup.exe`** из [Releases](https://github.com/SmartMaster35Rus/Find My research-Open-Menu-Platinum/releases/latest)
 2. Закройте предыдущие экземпляры Open Menu, если были открыты
 3. Запустите установщик и следуйте мастеру
-4. Запустите **Open Menu FMI-OFF Platinum** с рабочего стола или из меню «Пуск»
+4. Запустите **Open Menu Find My research Platinum** с рабочего стола или из меню «Пуск»
 
 ---
 
 ## Краткая инструкция
 
 1. Подключите iPhone/iPad по USB, разблокируйте, нажмите **«Доверять»**
-2. Нажмите **▶ Старт FMI:OFF** — дождитесь запуска прокси и охотника токена
+2. Нажмите **▶ Старт Find My research** — дождитесь запуска прокси и охотника токена
 3. На устройстве откройте **Safari** (см. таблицу ниже)
 4. Выйдите из Apple ID (если уже вошли) и **войдите снова** (код-пароль / Face ID / Touch ID)
 5. При запросе включите **«Режим полёта»**, затем **Продолжить** — токен уйдёт на сервер
@@ -93,7 +93,7 @@ Platinum определяет регион по USB и показывает пр
 - **Проверка обновлений** при старте
 - **RU / EN / ES** в интерфейсе
 
-[Полный changelog релиза →](https://github.com/SmartMaster35Rus/FMI-OFF-Open-Menu-Platinum/releases/tag/v1.0.0.25)
+[Полный changelog релиза →](https://github.com/SmartMaster35Rus/Find My research-Open-Menu-Platinum/releases/tag/v1.0.0.25)
 
 ---
 
