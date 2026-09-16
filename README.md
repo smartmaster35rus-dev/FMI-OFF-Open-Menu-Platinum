@@ -1,107 +1,86 @@
-# Open Menu Find My research Platinum
+# Open Menu Find My Research Platinum
 
-**Open Menu Find My research Platinum** — настольная утилита для Windows, которая проводит iPhone/iPad через сценарий **Open Menu** и помогает снять **Find My / Activation Lock (Find My research)** на поддерживаемых устройствах.
+**Find My status research via Open Menu — Windows**
 
-Поддерживаются **все регионы iCloud**: global (**icloud.com**) и China (**icloud.com.cn**, GCBD). Программа и сервер автоматически выбирают нужный домен по региону устройства.
+[![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/FMI-OFF-Open-Menu-Platinum?label=Windows&style=for-the-badge)](https://github.com/smartmaster35rus-dev/FMI-OFF-Open-Menu-Platinum/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)](https://github.com/smartmaster35rus-dev/FMI-OFF-Open-Menu-Platinum/releases)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus--activator.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
 
----
+<p align="center">
 
-## Скачать
+[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/FMI-OFF-Open-Menu-Platinum/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/)
 
-| | |
-|---|---|
-| **Последняя версия** | [**v1.0.0.25 — Releases**](https://github.com/SmartMaster35Rus/Find My research-Open-Menu-Platinum/releases/latest) |
-| **Установщик** | `OpenMenu_FMIOFF_Platinum_Setup.exe` (~278 MB) |
-| **Платформа** | Windows 10/11 x64 |
+</p>
 
 ---
 
-## Возможности
+## 🇷🇺 О программе
 
-| Функция | Описание |
-|--------|----------|
-| **Find My research** | Open Menu: локальный прокси → Token Hunter → отправка токена на сервер |
-| **USB** | Серийник, IMEI, модель, регион, версия iOS |
-| **Token Hunter** | Перехват iCloud-сессии через Safari + Web Inspector |
-| **Global iCloud** | icloud.com + setup.icloud.com |
-| **China iCloud** | icloud.com.cn + setup.icloud.com.cn (CH/A, ZP/A …) |
-| **Platinum UI** | PyQt6-лаунчер + Electron-мост, журнал, быстрые действия |
-| **Erase** | Сброс устройства после успешного снятия FMI |
-| **Quick actions** | Reboot, shutdown, Recovery, Fake Reset, блок OTA |
-| **Языки** | Русский · English · Español |
-| **Обновления** | Проверка новой версии при старте |
+**Open Menu Find My Research Platinum** — Windows-утилита для сценария **Open Menu**: локальный прокси, Token Hunter (Safari + Web Inspector), отправка токена на сервер. Поддерживаются **все регионы iCloud** — global (`icloud.com`) и China (`icloud.com.cn`).
+
+## 🇬🇧 About
+
+Desktop toolkit for **Open Menu** Find My research on supported iPhone/iPad devices. Platinum UI, live log, global and China iCloud endpoints, RU / EN / ES.
 
 ---
 
-## Поддерживаемые устройства
+## ✨ Key features
 
-- **iPhone / iPad**, **iOS 15.0 – 26.x**
-- Подключение по **USB**, «Доверять этому компьютеру»
-- Safari, **Веб-инспектор ON** (Настройки → Safari → Дополнения)
-
----
-
-## Требования на ПК
-
-- **Windows 10/11** (64-bit)
-- Установка и работа **от имени администратора**
-- Служба Apple Mobile Device (Apple Devices / iTunes)
-- **Авторизованный серийный номер** на сервере SmartMaster35Rus
+| Feature | Description |
+|---------|-------------|
+| 🔐 **Find My research** | Open Menu: proxy → Token Hunter → server POST |
+| 🌍 **All iCloud regions** | icloud.com + icloud.com.cn (auto by device region) |
+| 📱 **USB device card** | Model, SN, IMEI, iOS, region |
+| ⚡ **Quick actions** | Reboot, shutdown, Recovery, Fake Reset, OTA block, Erase |
+| 🔄 **Updates** | Version check on startup |
+| 🌍 **i18n** | Русский · English · Español |
 
 ---
 
-## Установка
+## ⬇️ Download
 
-1. Скачайте **`OpenMenu_FMIOFF_Platinum_Setup.exe`** из [Releases](https://github.com/SmartMaster35Rus/Find My research-Open-Menu-Platinum/releases/latest)
-2. Закройте предыдущие экземпляры Open Menu, если были открыты
-3. Запустите установщик и следуйте мастеру
-4. Запустите **Open Menu Find My research Platinum** с рабочего стола или из меню «Пуск»
+**[Releases](https://github.com/smartmaster35rus-dev/FMI-OFF-Open-Menu-Platinum/releases/latest)**
 
----
+| File | Purpose |
+|------|---------|
+| `OpenMenu_FMIOFF_Platinum_Setup.exe` | Установщик (~280 MB) |
 
-## Краткая инструкция
-
-1. Подключите iPhone/iPad по USB, разблокируйте, нажмите **«Доверять»**
-2. Нажмите **▶ Старт Find My research** — дождитесь запуска прокси и охотника токена
-3. На устройстве откройте **Safari** (см. таблицу ниже)
-4. Выйдите из Apple ID (если уже вошли) и **войдите снова** (код-пароль / Face ID / Touch ID)
-5. При запросе включите **«Режим полёта»**, затем **Продолжить** — токен уйдёт на сервер
-6. Дождитесь успешного завершения на экране ПК
+> ⚠️ Windows 10/11 x64, **запуск от администратора**, Apple Mobile Device driver, авторизованный SN на сервере.
 
 ---
 
-## Safari / iCloud — все регионы
+## 📋 Requirements
 
-| Регион | Открыть в Safari | API сервера |
-|--------|------------------|-------------|
-| **Global** (EU, US, RU, …) | **icloud.com** | setup.icloud.com |
-| **China** (CH/A, ZP/A …) | **icloud.com.cn** | setup.icloud.com.cn |
+- iPhone / iPad, **iOS 15.0 – 26.x**
+- USB, «Доверять этому компьютеру»
+- Safari, **Web Inspector ON** (Настройки → Safari → Дополнения)
 
-Platinum определяет регион по USB и показывает правильную подсказку. Token Hunter перехватывает токен с обоих доменов; сервер выбирает нужный endpoint автоматически.
+### Safari / iCloud
 
-> На китайских устройствах **icloud.com отклонит вход** — используйте только **icloud.com.cn**.
-
----
-
-## Что нового в v1.0.0.25
-
-- **Platinum UI** — PyQt6-лаунчер, карточка устройства, журнал, быстрые действия
-- **Electron-мост** — USB, локальный прокси, Token Hunter, POST токена на сервер
-- **Token Hunter** — перехват iCloud-сессии через Safari + Web Inspector
-- **Все регионы iCloud** — global и China, автоопределение по региону
-- **Пауза перед POST** — напоминание включить «Режим полёта» перед отправкой токена
-- **Проверка обновлений** при старте
-- **RU / EN / ES** в интерфейсе
-
-[Полный changelog релиза →](https://github.com/SmartMaster35Rus/Find My research-Open-Menu-Platinum/releases/tag/v1.0.0.25)
+| Регион | Открыть в Safari |
+|--------|------------------|
+| Global (EU, US, RU, …) | **icloud.com** |
+| China (CH/A, ZP/A …) | **icloud.com.cn** |
 
 ---
 
-## Поддержка
+## 📝 Changelog
 
-- Сайт: [smartmaster35rus.ru](https://smartmaster35rus.ru)
-- Авторизация серийника и вопросы по работе — через сервис **SmartMaster35Rus**
+Полные заметки — в [Releases](https://github.com/smartmaster35rus-dev/FMI-OFF-Open-Menu-Platinum/releases).
+
+**v1.0.0.29** — актуальная сборка Platinum  
+**v1.0.0.25** — PyQt6 launcher, Token Hunter, все регионы iCloud
 
 ---
 
-**© SmartMaster35Rus · 2026**
+## ⚖️ Disclaimer
+
+Инструмент для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
+
+---
+
+<p align="center">
+
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/)
+
+</p>
